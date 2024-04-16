@@ -1,0 +1,1 @@
+To run the code open the main.py and in there two models are initialized. one for One hidden layer mode and the other for No hidden layer. the configuration of the models can be changed during creation of models.
